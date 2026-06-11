@@ -179,11 +179,14 @@ transition={{
                 Full Stack Developer
               </motion.div>
 
-              <motion.p className="hero-subtitle" variants={wordItem}>
-                <span>IT Undergraduate</span>
-                <span className="dot" />
-                <span>IoT Researcher</span>
-              </motion.p>
+<motion.p className="hero-subtitle" variants={wordItem}>
+  <span className="dot" />
+  <span>IT Undergraduate</span>
+  <span className="dot" />
+  <span>AI Enthusiast</span>
+  <span className="dot" />
+  <span>IoT Researcher</span>
+</motion.p>
 
               <motion.div className="hero-actions" variants={wordItem}>
                 <a className="primary-button" href="#projects">View Projects</a>
